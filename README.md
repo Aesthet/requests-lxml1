@@ -1,1 +1,1 @@
-# requests-lxml
+Repository to practice requests and lxml libraries

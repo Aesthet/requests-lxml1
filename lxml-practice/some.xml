@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+   <ROOT>
+       <EMPTY-ELEMENT string-attribute="Иван" />
+       <OPENED-ELEMENT>
+          <INTERNAL-ELEMENT />
+       </OPENED-ELEMENT>
+       <TYPE_SAMPLES>
+   <!--  Примеры записи в XML различных типов данных -->
+          <NUMERIC>
+            <INTEGER value="100203" />
+            <DOUBLE varian-1="333.4445454" variant-2="333.44E2" />
+          </NUMERIC>
+          <DateTime>
+             <DATE value="2001-02-03" />
+             <DATE-TIME value="2001-02-03T12:30:44" value1="2001-02-03T12:30:44+UTC3">
+                  <errors err1="01/02/2001" />
+             </DATE-TIME>
+             <DateTimeDuration value="P4028DT11H10M59S" />
+          </DateTime>
+       </TYPE_SAMPLES>
+       <CDATA-ELEMENT-SAMPLE>
+          <![CDATA[
+             Здесь можно поместить любой набор символов
+             werlkgj lwkejrg lkwejlg
+             jwelg <> = dj klklg se
+          ]]>
+       </CDATA-ELEMENT-SAMPLE>
+       <TEXT-SAMPLE>Здесь может быть любое текстовое значение</TEXT-SAMPLE>
+   </ROOT>

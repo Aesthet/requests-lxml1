@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>My html</title>
+    <meta charset="UTF-8"/>
+  </head>
+  <body>
+    <h1>This is <strong>HEADING</strong>example<ins>Get it !?</ins>or not ?</h1>
+  </body>
+</html>
